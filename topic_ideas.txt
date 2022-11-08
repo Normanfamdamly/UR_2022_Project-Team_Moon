@@ -1,0 +1,6 @@
+Topic ideas:
+
+- NCAA conference alignment optimization
+- Mental health care access (geographic? insurance coverage? demographics? neighborhoods/maps?)
+- Currency fluctuations (seems difficult - they all change relative to each other, not an absolute standard) BUT we could compare official currency to crypto
+- Gas prices - what drives them?
