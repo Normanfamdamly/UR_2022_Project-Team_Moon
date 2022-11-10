@@ -29,7 +29,7 @@ How to decide:
 
 11/09/2022 ON 
 Main questions:
-What is a specific topic we would like to focus out data on
+What is a specific topic we would like to focus our data on
 (demographics: race, financial, age)
 
 Key points:
