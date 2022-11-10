@@ -1,0 +1,28 @@
+Topic ideas:
+
+- NCAA conference alignment optimization OR... do NILs matter for recruitment?
+- Mental health care access (geographic? insurance coverage? demographics? neighborhoods/maps?)
+- Availability/ease of voting
+- Currency fluctuations (seems difficult - they all change relative to each other, not an absolute standard) BUT we could compare official currency to crypto
+- Gas prices - what drives them? Across time OR across geographic locations?
+
+How to decide:
+- What's within the scope of what we know about machine learning?
+
+- Where can we get data?
+	- Healthcare APIs exist and are reliable
+	- NCAA stuff likely involves heavy webscraping
+	- Ann-Marie has access to currency data (might need cleaning)
+	- Gas prices can be web searched
+
+-Where is the narrative able to be moved forward? What's current in the world?
+	- What even is "optimal" for conferences? If we don't know the target variable, what are we analyzing?
+	- Gas prices factors seem fairly understood by economists
+	- Mental health: lots of "we need to do better", but a lot of room to improve on actually doing better!
+		--Multi factor: income, race, cultural factors, neighborhood, indoor/outdoor work. Idea: Let's have ML decide what the components are!
+
+
+- If we go with mental health, the project could be...
+	- Categorization of patients into risk categories (via ML)
+	- Analysis of which groups have easy/affordable access to care (via map API)
+	- 
