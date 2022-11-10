@@ -15,14 +15,17 @@ Topic: Anxiety (target)
 
 Source: [click here](https://www.datafiles.samhsa.gov/dataset/mental-health-client-level-data-2020-mh-cld-2020-ds0001)
 
-Model: Classification
-        Supervised Machine Learning
+Model: 
+* ##### Classification
+* ##### Supervised Machine Learning
 
-Technologies Used: Jupyter
-                    Tableau
-                    SQL(?)
+Technologies Used: 
+* ##### Jupyter
+* ##### Tableau
+* ##### SQL(?)
 
-Relational dashboard groups vs. Anxiety : location
-                                          age
-                                          gender
+Relational dashboard groups vs. Anxiety:
+* ##### location
+* ##### age
+* ##### gender
 
