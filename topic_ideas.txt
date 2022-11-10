@@ -26,3 +26,16 @@ How to decide:
 	- Categorization of patients into risk categories (via ML)
 	- Analysis of which groups have easy/affordable access to care (via map API)
 	- 
+
+11/09/2022 ON 
+Main questions:
+What is a specific topic we would like to focus our data on
+(demographics: race, financial, age)
+
+Key points:
+	- level of access to care based on demographics listed above
+	
+Model: Classification
+Topic: Anxiety
+Dashboard grouping by: Age group, location 
+
