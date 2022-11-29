@@ -23,7 +23,7 @@ Starting with Jupyter Notebook using pandas, we began by first dropping columns 
 - State was removed for the machine learning but used in graphing
 - All flags that had under 5% were removed
 - 
-### Machiine Learning
+### Machine Learning
 Using our cleaned data we applied it to three machine learning models
 - Logistic Regression had an accuarcy score of 81%(? more info)
 - Random Forest had an accuarcy of 75%(? more info)
