@@ -7,9 +7,9 @@ The purpose of this project is to get a deep analysis on mental health across Am
 ### Data Collection
 - The data source was collected from the Substance Abuse and Mental Health Data Archive (SAMHDA). The analysis will be using the Client-Level Mental Health Data from the year 2020. It will provide the information of indivduals who have gone to facilities that report to individual state administrative data systems.
 - The original data provided uses a code book to show us the information; this will have to be converted for our dataframe.
-- This data will be cleaned and consolidated into a database and the variables will be applied to a Machine Learning model to predict anxiety in indiviuals.
+- This data will be cleaned into a database and the variables will be applied to a Machine Learning model to predict anxiety in indiviuals.
 
-## Prprocessing Data and Machine Learning
+## Preprocessing Data and Machine Learning
 ### Cleaning the Data
 Starting with Jupyter Notebook using pandas, we began by first dropping columns that do not help our analysis:
 - Year was dropped for all the data was just 2020
@@ -36,5 +36,5 @@ Using our cleaned data we applied it to three machine learning models
 
 ## Presentation
 For the analysis we used Google Slides to clearly show the results of all our data. And we also included all of our visuals to show our results
-Link to [Googleps://www.google.com "Google's Homepage")
+- Link to [Google Slides](https://docs.google.com/presentation/d/1WQd136a2QlFss3xeQWS823-KZhiiS24vuIKxAbzW2Mk/edit#slide=id.g25f6af9dd6_0_0 "Google's Homepage")
 ---
