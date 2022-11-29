@@ -23,4 +23,18 @@ Starting with Jupyter Notebook using pandas, we began by first dropping columns 
 - State was removed for the machine learning but used in graphing
 - All flags that had under 5% were removed
 - 
+### Machiine Learning
+Using our cleaned data we applied it to three machine learning models
+- Logistic Regression had an accuarcy score of 81%(? more info)
+- Random Forest had an accuarcy of 75%(? more info)
+- Neural Network had the best results of 83%(? more info)
+
+## Technology
+- Jupyter Notebook using Pandas and Python
+- Tableau was used for our visual graphing
+- Google slides was used for presenting the project
+
+## Presentation
+For the analysis we used Google Slides to clearly show the results of all our data. And we also included all of our visuals to show our results
+Link to [Googleps://www.google.com "Google's Homepage")
 ---
