@@ -1,0 +1,8 @@
+
+
+-Little preliminary machine learning used because most of the data used because the data collected from the study was already encoded. This was mainly used for the dashboard. 
+-Most of the variables that were not included were documented as missing/unknown or the had percentage values below 5% which what we made our threshold when including mental health targets. 
+-Explanation of model choice:
+Logistic Regression 
+Random Forest model present the lowest score at 75%
+Sequetial Model: this model produced an accuracy rate of about 83% with little to no improvement for each epoch 
