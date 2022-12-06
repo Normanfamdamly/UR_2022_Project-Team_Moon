@@ -37,4 +37,5 @@ Using our cleaned data we applied it to three machine learning models
 ## Presentation
 For the analysis we used Google Slides to clearly show the results of all our data. And we also included all of our visuals to show our results
 - Link to [Google Slides](https://docs.google.com/presentation/d/1WQd136a2QlFss3xeQWS823-KZhiiS24vuIKxAbzW2Mk/edit#slide=id.g25f6af9dd6_0_0 "Google's Homepage")
+- Link to [Tableau Public](https://public.tableau.com/app/profile/olivia.nayeri/viz/MentalHealthDemographics/MvsFbarchart_1#1)
 ---
