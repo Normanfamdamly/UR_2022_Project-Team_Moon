@@ -25,8 +25,8 @@ Starting with Jupyter Notebook using pandas, we began by first dropping columns 
 - 
 ### Machine Learning
 Using our cleaned data we applied it to three machine learning models
-- Logistic Regression had an accuarcy score of 81%(? more info)
-- Random Forest had an accuarcy of 75%(? more info)
+- Logistic Regression had an accuracy score of 81%(? more info)
+- Random Forest had an accuracy of 75%(? more info)
 - Neural Network had the best results of 83%(? more info)
 
 ## Technology
