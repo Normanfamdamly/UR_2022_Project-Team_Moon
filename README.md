@@ -22,12 +22,14 @@ Starting with Jupyter Notebook using pandas, we began by first dropping columns 
 - Living Arrangment was either 'private residence' or 'missing'
 - State was removed for the machine learning but used in graphing
 - All flags that had under 5% were removed
-- 
+
 ### Machine Learning
 Using our cleaned data we applied it to three machine learning models
-- Logistic Regression had an accuracy score of 81%(? more info)
-- Random Forest had an accuracy of 75%(? more info)
-- Neural Network had the best results of 83%(? more info) 
+- Logistic Regression had an accuracy score of 81%
+- Random Forest had an accuracy of 75%
+- Neural Network had the best results of 83%
+
+Despite the slightly higher accuracy score of the neural network, its resource-intensive nature caused it to run for several minutes per epoch, whereas the logistic regression was completed in less than a single minute. Because of this difference in efficiency, we would recommend the logistic regression model be used for analysis of any further data sets.
 
 ## Technology
 - Jupyter Notebook using Pandas and Python
