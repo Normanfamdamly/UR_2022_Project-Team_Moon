@@ -5,7 +5,8 @@ The purpose of this project is to get a deep analysis on mental health across Am
 
 ## Tools and Databases
 ### Data Collection
-- Link to [Source](https://www.datafiles.samhsa.gov/dataset/mental-health-client-level-data-2020-mh-cld-2020-ds0001)
+- Link to [Data Source](https://www.datafiles.samhsa.gov/dataset/mental-health-client-level-data-2020-mh-cld-2020-ds0001)
+- Link to [Data Codebook](https://www.datafiles.samhsa.gov/sites/default/files/field-uploads-protected/studies/MH-CLD-2020/MH-CLD-2020-datasets/MH-CLD-2020-DS0001/MH-CLD-2020-DS0001-info/MH-CLD-2020-DS0001-info-codebook.pdf)
 - The data source was collected from the Substance Abuse and Mental Health Data Archive (SAMHDA). The analysis will be using the Client-Level Mental Health Data from the year 2020. It will provide the information of indivduals who have gone to facilities that report to individual state administrative data systems.
 - The original data provided uses a code book to show us the information; this will have to be converted for our dataframe.
 - This data will be cleaned into a database and the variables will be applied to a Machine Learning model to predict anxiety in indiviuals.
